@@ -19,3 +19,46 @@
     padding: 5px;
     margin-right: 10px;
 }
+.banner-container{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-image: url("/asset/image/background.jpg");
+    background-blend-mode: overlay;
+    
+}
+.banner-title{
+    font-size: 85px;
+    font-weight: bold;
+}
+.primary{
+    color: #F52C2C;
+}
+.banner-description{
+    font-size: 22px;
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+}
+.btn-discover{
+    padding: 15px 35px;
+    color: white;
+    background-color: #F52C2C;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    margin: 5px;
+}
+.btn-hire{
+    padding: 15px 35px;
+    color: black;
+    background-color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    margin: 5px;
+}
