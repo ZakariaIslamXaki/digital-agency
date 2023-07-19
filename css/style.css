@@ -47,19 +47,19 @@
     padding: 15px 35px;
     color: white;
     background-color: #F52C2C;
-    border: none;
     cursor: pointer;
     font-size: 18px;
     margin: 5px;
     border-radius: 10px;
+    border-color: white;
 }
 .btn-hire{
     padding: 15px 35px;
     color: black;
     background-color: white;
-    border: none;
     cursor: pointer;
     font-size: 18px;
     margin: 5px;
     border-radius: 10px;
+    border-color: #F52C2C;
 }
